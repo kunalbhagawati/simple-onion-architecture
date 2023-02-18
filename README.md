@@ -4,7 +4,7 @@
 Well, to answer a very singular question: 
 > How can we have codebases that are easy to maintain, extend and still have the ability to increase performance later when those scaling headaches come.
 
-This is generic for **all engineering**, and not any particular codebase!
+_Note: Most of the stuff I talk about here (specifically the specifics of how to design the codebase) are very specific to backend-engineering._ 
 
 Checkout the [docs](./docs) starting with [index.md](./docs/index.md) for  a quickstart!
 

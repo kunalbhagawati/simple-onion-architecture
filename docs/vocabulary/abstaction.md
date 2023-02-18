@@ -1,5 +1,5 @@
 ## Abstraction
-Throughout this whole journey, we don't use the word abstraction in the context the SOLID or some particular coding style.  
+Throughout this whole journey, we don't use the word abstraction in the context the SOLID or some particular coding paradigm.  
 
 No, here, an abstraction is basically the "level" **along with** "context" of what we are talking about.
 
@@ -70,6 +70,6 @@ Drilling down on each "level" of context & understanding, we get:
 
 Each _individual part_ of the flowchart of one layer breaks down into a more complex flowchart somewhere in a lower layer.
 
-At the topmost level is the simplest flowchart, and the lowest level will be the biggest flowchart.
+At the topmost level is the simplest flowchart, and the lowest level will be the biggest (combined) flowchart.
 
 Thus, at the lowest layer, we have a system-of-systems, and at the topmost layer that same thing becomes one system.
