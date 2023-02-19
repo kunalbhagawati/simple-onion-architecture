@@ -15,3 +15,5 @@ In order of priority:
 
 Here in this codebase and this journey, we will see a very particular style of writing codebases (_NOT_ code), which can help us come closer to achieving these goals.  
 But before we do that, **please** go through the [vocabulary](vocabulary/) once so that we have the same understanding of terms we use throughout this journey.
+
+With that done, you can then check out the [onion design / architecture style](./onion-design.md)
